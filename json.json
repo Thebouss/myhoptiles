@@ -6,8 +6,7 @@
     "startTime": 0.05,
     "diamonds": 50,
     "type": "OPEN",
-    "version": 1,
-    "tags": null
+    "version": 1
   },
   
  {
@@ -17,8 +16,7 @@
     "startTime": 0.05,
     "diamonds": 50,
     "type": "OPEN",
-    "version": 1,
-    "tags": null
+    "version": 1
   },
   {
     "path": "/SunnyDay_Electrojam.mp3",
@@ -27,8 +25,7 @@
     "startTime": 1,
     "diamonds": 50,
     "type": "OPEN",
-    "version": 0,
-    "tags": null
+    "version": 0
   },
   {
     "path": "/springsonata.mp3",
@@ -37,7 +34,6 @@
     "startTime": 1,
     "diamonds": 50,
     "type": "OPEN",
-    "version": 1,
-    "tags": null
+    "version": 1
   }
  ]
